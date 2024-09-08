@@ -11,10 +11,14 @@ Para esta semana estaremos realizando el experimento nuemero 1 que aplica las ta
 |Oscar Ivan Manco Racines| o.manco@uniandes.edu.co |
 
 ## Pasos para la ejecución
-#ApiGateway
+
+## ApiGateway
 -flask run --port=5000
-#Servidor de cliente
+
+## Servidor de cliente
 -flask run --port=5001
+
 -flask run --port=5002 (servicio de respaldo)
-#Simular solicitudes
+
+## Simular solicitudes
 -node experimento1.js
