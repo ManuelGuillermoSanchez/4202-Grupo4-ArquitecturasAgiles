@@ -12,10 +12,28 @@ Para esta semana estaremos realizando el experimento nuemero 1 que aplica las ta
 
 ## Pasos para la ejecución
 
+Descargar los codigos y ejecutar en el editor de su preferencia y en cada uno realizar los siguientes pasos 
+- py -m pip --version
+- py -m pip install --upgrade pip
+  
+# crear entorno virtual
+- py -m venv venv
+- .\venv\Scripts\activate
+
+# ejecutar los requerimientos
+- pip install -r requirements.txt
+
+  
+
+
 ## ApiGateway
--flask run --port=5000
+# Descargar código 
+- https://github.com/saperezr/ApiGateway
+- flask run --port=5000
 
 ## Servidor de cliente
+# Descargar código 
+- https://github.com/jmalagonn/4202-servicio-clientes
 -flask run --port=5001
 
 -flask run --port=5002 (servicio de respaldo)
