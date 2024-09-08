@@ -21,22 +21,21 @@ Descargar los codigos y ejecutar en el editor de su preferencia y en cada uno re
 - .\venv\Scripts\activate
 
 # ejecutar los requerimientos
-- pip install -r requirements.txt
-
-  
+- pip install -r requirements.txt  
 
 
-## ApiGateway
-# Descargar código 
+# ApiGateway
+## Descargar código 
 - https://github.com/saperezr/ApiGateway
 - flask run --port=5000
 
-## Servidor de cliente
-# Descargar código 
-- https://github.com/jmalagonn/4202-servicio-clientes
--flask run --port=5001
+# Servidor de cliente
 
--flask run --port=5002 (servicio de respaldo)
+## Descargar código 
+
+- https://github.com/jmalagonn/4202-servicio-clientes
+- flask run --port=5001
+- flask run --port=5002 (servicio de respaldo)
 
 ## Simular solicitudes
 -node experimento1.js
