@@ -38,4 +38,6 @@ Descargar los codigos y ejecutar en el editor de su preferencia y en cada uno re
 - flask run --port=5002 (servicio de respaldo)
 
 ## Simular solicitudes
--node experimento1.js
+
+- Luego ejecutar este comando 
+- node experimento1.js
